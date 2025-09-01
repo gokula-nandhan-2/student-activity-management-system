@@ -89,7 +89,7 @@ Here are some example screenshots of the system running in the console:
 ![Additional Options Screenshot](screenshots/additional_options.png)
 
 ### Student Progress Report
-![Progress Report Screenshot](screenshots/progress_report.png)
+![Progress Report Screenshot](screenshots/student_progress_report.png)
 
 ---
 
